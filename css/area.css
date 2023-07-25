@@ -1,0 +1,21 @@
+.area{
+    margin-top: 128px;
+    margin-bottom: 500px;
+}
+.area__top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.area__btn{
+    
+}
+.area__title{
+    color: #2A2C1F;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57.6px; /* 120% */
+}
